@@ -1,1 +1,1 @@
-# Graduation-research-Tsukuba-Univ.-
+# Graduation-research-Tsukuba-Univ-

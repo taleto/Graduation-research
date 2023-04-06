@@ -1,4 +1,4 @@
-# Graduation-research-Tsukuba-Univ-
+# Graduation-research
 
 Short project description.
 

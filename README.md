@@ -4,8 +4,9 @@ Short project description.
 
 # Table of Contents
 
-- [インストール](#installation)
-- [使用方法](#usage)
+- [Requirement](#installation)
+- [Installation](#installation)
+- [Usage](#usage)
 
 # Requirement
 ・python 3
@@ -18,8 +19,10 @@ pythiaとhipe4mlをインストールしてください。
 ## 1.教師用データセットの作成
 こんにちは
 Makefileを用いてjetinfo.ccをコンパイル
+
 	make -f Makefile_tutorial jetinfo
 	./jetinfo
+
 実行後にはjetinfo.root, info_jet.txtという二つのファイルが生成される。
 jetinfo.rootはこの後の機械学習を用いたジェット識別に利用するデータテーブルが含まれる。
 info_jet.txtにはどのような運動量を持ったジェットが生成されたのかの情報を保持している。

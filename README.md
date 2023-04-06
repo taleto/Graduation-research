@@ -10,7 +10,7 @@ Short project description.
 
 # Requirement
 * python 3.8~
-* pythia
+* pythia 8.3
 * root
 
 pip
@@ -49,5 +49,7 @@ info_jet.txtはどのような運動量を持ったジェットが生成され�
 
 ## 機械学習を用いたジェット識別
 生成された"jetinfo.root"と"dataset.root"というrootファイルがあるディレクトリで
+
 	python binary-jet.py
+	
 を実行すれば学習の後識別を行い、グラフを出力する。

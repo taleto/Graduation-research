@@ -10,8 +10,8 @@ Short project description.
 
 # Requirement
 * python 3.8~
-* pythia 8.3
-* root
+* pythia 8.3~
+* root 6.26~
 
 pip
 * hipe4ml

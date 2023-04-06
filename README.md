@@ -10,10 +10,20 @@ Short project description.
 
 # Requirement
 * python 3.8~
-* hipe4ml
 * pythia
+* root
+
+pip
+* hipe4ml
+* numpy
+* pandas
+* xgboost
+* matplotlib
+* sklearn
 
 # Installation
+初めの3つのインストールについては冗長になるので割愛。
+hipe4ml以下はpipを用いて簡単にインストールできる。
 
 pip install hipe4ml
 

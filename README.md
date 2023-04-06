@@ -9,15 +9,16 @@ Short project description.
 - [Usage](#usage)
 
 # Requirement
-・python 3
-・hipe4ml
-・pythia
+* python 3.8~
+* hipe4ml
+* pythia
+
 # Installation
-pythiaとhipe4mlをインストールしてください。
+
+pip install hipe4ml
 
 # Usage
 ## 1.教師用データセットの作成
-こんにちは
 Makefileを用いてjetinfo.ccをコンパイル
 
 	make -f Makefile_tutorial jetinfo
